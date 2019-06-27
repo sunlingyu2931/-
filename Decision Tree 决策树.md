@@ -1,4 +1,4 @@
-### decision tree 决策树
+### Decision Tree 决策树
 
 （既可以classification也可以进行 regression，取决于特征的选择）
 
